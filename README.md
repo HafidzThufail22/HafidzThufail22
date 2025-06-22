@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Hafidz Thufail Nur Ikhsan 👋
 
 <!--
 **HafidzThufail22/HafidzThufail22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 I'm a Informatics Student at Digital Technology University of Indonesia
