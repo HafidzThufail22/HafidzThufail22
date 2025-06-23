@@ -17,11 +17,17 @@ Here are some ideas to get you started:
 
 🎓 I'm a Informatics Student at Digital Technology University of Indonesia
 
+---
+
 #### 🌐 Social
 
-![https://instagram.com/hafidzthufail_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/hafidzthufail/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://instagram.com/hafidzthufail_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/hafidzthufail/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![mailto:hafidzthufail22@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+---
 
 #### 💻 Tech Stack
+
+---
 
 ##### 🖥️ Web Development
 
@@ -31,6 +37,14 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,github,git)](https://skillicons.dev)
 
-#### 📈 Github Stats
+---
 
-[![Hafidz Thufail's GitHub stats](https://github-readme-stats.vercel.app/api?username=HafidzThufail22&show_icons=true&theme=vision-friendly-dark)
+#### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=HafidzThufail22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HafidzThufail22&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HafidzThufail22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=HafidzThufail22&icon=0&color=0)](https://visitcount.itsvg.in)
