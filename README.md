@@ -1,50 +1,79 @@
-## Hi there, I'm Hafidz Thufail Nur Ikhsan 👋
+<h1 align="center">Hi there, I'm Hafidz Thufail Nur Ikhsan 👋</h1>
 
-<!--
-**HafidzThufail22/HafidzThufail22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h4 align="center">I'm a student at Digital Technology University of Indonesia, currently diving deep into the world of Web Development. Passionate about crafting clean and responsive websites using modern technologies.</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
 
-🎓 I'm a Informatics Student at Digital Technology University of Indonesia
+<p align="left">🌱 I’m currently learning Javascript <br>💡 I'm always open to collaboration, feedback, and learning something new every day.</p>
 
----
+###
 
-#### 🌐 Social
+<p align="left"></p>
 
-![https://instagram.com/hafidzthufail_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/hafidzthufail/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![mailto:hafidzthufail22@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+###
 
----
+<h2 align="left">🌐 Let's Connect!</h2>
 
-#### 💻 Tech Stack
+###
 
----
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
 
-##### 🖥️ Web Development
+###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,mysql,tailwind)](https://skillicons.dev)
+<h2 align="left">🛠️ Language and Tools</h2>
 
-##### 🛠️ Tools & Platform
+###
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,github,git)](https://skillicons.dev)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
 
----
+###
 
-#### 📊 GitHub Stats:
+<h2 align="left">📊 GitHub Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=HafidzThufail22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HafidzThufail22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HafidzThufail22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HafidzThufail22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HafidzThufail22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=HafidzThufail22&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=HafidzThufail22&icon=0&color=0)](https://visitcount.itsvg.in)
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HafidzThufail22/HafidzThufail22/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HafidzThufail22/HafidzThufail22/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HafidzThufail22/HafidzThufail22/output/pacman-contribution-graph.svg">
+</picture>
+
+###
