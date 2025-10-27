@@ -71,7 +71,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/HafidzThufail22/HafidzThufail22/output/snake.svg" alt="Snake animation" />
-
-###
