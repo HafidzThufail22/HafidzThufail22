@@ -22,6 +22,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=HafidzThufail22&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=HafidzThufail22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![snake gif](https://github.com/HafidzThufail22/HafidzThufail22/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/HafidzThufail22/HafidzThufail22/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
