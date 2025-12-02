@@ -18,9 +18,16 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HafidzThufail22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HafidzThufail22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=HafidzThufail22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HafidzThufail22&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafidzThufail22&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HafidzThufail22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  </p>
+</div>
 
 ![snake gif](https://github.com/HafidzThufail22/HafidzThufail22/blob/output/github-contribution-grid-snake-dark.svg)
 
