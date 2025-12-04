@@ -18,9 +18,14 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HafidzThufail22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HafidzThufail22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=HafidzThufail22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HafidzThufail22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HafidzThufail22&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" height="170" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HafidzThufail22&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
+</div>
 
 ![snake gif](https://github.com/HafidzThufail22/HafidzThufail22/blob/output/github-contribution-grid-snake-dark.svg)
 
