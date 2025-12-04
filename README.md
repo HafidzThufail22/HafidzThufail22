@@ -32,4 +32,4 @@
 ![snake gif](https://github.com/HafidzThufail22/HafidzThufail22/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,100:1a1b27&height=100&section=footer" />
