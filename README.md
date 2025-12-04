@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A9F2&center=true&vCenter=true&width=435&lines=UI/UX Designer;Front-End Development Enthusiast;" alt="Typing SVG"/>
+</a>
+</div>
+
 <h4 align="center">I'm a student at Digital Technology University of Indonesia, currently exploring the intersection of Front-End Development and UI/UX Design. I am passionate about bridging the gap between logic and aesthetics to build responsive, user-friendly websites.</h4>
 
 ###
@@ -24,3 +30,6 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HafidzThufail22&layout=compact&langs_count=6&theme=radical&hide_border=false&bg_color=1A1B27" height="180" alt="Top Languages"/>
 
 ![snake gif](https://github.com/HafidzThufail22/HafidzThufail22/blob/output/github-contribution-grid-snake-dark.svg)
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
