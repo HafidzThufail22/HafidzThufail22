@@ -3,9 +3,7 @@
 ###
 
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A9F2&center=true&vCenter=true&width=435&lines=UI/UX Designer;Front-End Development Enthusiast;" alt="Typing SVG"/>
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=80&lines=Informatics+Student;UI/UX+Designer;Front-End+Developer+Enthusiast" alt="Typing SVG" />
 </div>
 
 <h4 align="center">I'm a student at Digital Technology University of Indonesia, currently exploring the intersection of Front-End Development and UI/UX Design. I am passionate about bridging the gap between logic and aesthetics to build responsive, user-friendly websites.</h4>
