@@ -25,7 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=HafidzThufail22&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HafidzThufail22&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HafidzThufail22&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HafidzThufail22&layout=compact&langs_count=6&theme=radical&hide_border=false&bg_color=1A1B27" height="180" alt="Top Languages"/>
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HafidzThufail22&layout=compact&langs_count=6&theme=radical&hide_border=false&bg_color=1A1B27" height="180" alt="Top Languages"/> -->
 
 ![snake gif](https://github.com/HafidzThufail22/HafidzThufail22/blob/output/github-contribution-grid-snake-dark.svg)
 
