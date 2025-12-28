@@ -1,7 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Hafidz%20Thufail%20Nur%20Ikhsan%20&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
-
-###
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=80&lines=Informatics+Student;UI/UX+Designer;Front-End+Developer+Enthusiast" alt="Typing SVG" />
 </div>
