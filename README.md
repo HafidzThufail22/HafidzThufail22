@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hafidz Thufail Nur Ikhsan 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Hafidz%20Thufail%20Nur%20Ikhsan%20&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Personal Portfolio & Web Apps <br> 🌱 I’m currently learning Python, React Js, Laravel12, and UI/UX Design <br>💡 I'm always open to collaboration, feedback, and learning something new every day.</p>
+<p align="left">🌱 I’m currently learning Python, React Js, Laravel12, and UI/UX Design <br>💡 I'm always open to collaboration, feedback, and learning something new every day.</p>
 
 ## 🌐 Socials:
 
@@ -22,12 +22,11 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=HafidzThufail22&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HafidzThufail22&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HafidzThufail22&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HafidzThufail22&layout=compact&langs_count=6&theme=radical&hide_border=false&bg_color=1A1B27" height="180" alt="Top Languages"/>
+![](https://github-readme-stats.vercel.app/api?username=HafidzThufail22&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HafidzThufail22&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HafidzThufail22&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![snake gif](https://github.com/HafidzThufail22/HafidzThufail22/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,100:1a1b27&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer" />
