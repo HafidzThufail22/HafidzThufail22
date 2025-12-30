@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Python, React Js, Laravel12, and UI/UX Design <br>💡 I'm always open to collaboration, feedback, and learning something new every day.</p>
+<p align="left">🌱 I’m currently learning React Js, Next Js, Laravel12, and UI/UX Design <br>💡 I'm always open to collaboration, feedback, and learning something new every day.</p>
 
 ## 🌐 Socials:
 
