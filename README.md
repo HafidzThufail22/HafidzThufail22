@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning React Js, Next Js, Laravel12, and UI/UX Design <br>💡 I'm always open to collaboration, feedback, and learning something new every day.</p>
+<p align="left">🌱 I’m currently learning React Js, Laravel12, and UI/UX Design <br>💡 I'm always open to collaboration, feedback, and learning something new every day.</p>
 
 ## 🌐 Socials:
 
@@ -22,7 +22,8 @@
 <div align="left">
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=catursetyono&theme=tokyonight)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats-1-mu.vercel.app?user=HafidzThufail22&theme=tokyonight)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=HafidzThufail22&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak"/>
+
 
 </div>
 <div align="left">
