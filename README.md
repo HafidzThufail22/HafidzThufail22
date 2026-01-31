@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning React Js, Laravel12, and UI/UX Design <br>💡 I'm always open to collaboration, feedback, and learning something new every day.</p>
+<p align="left">🌱 I’m currently mastering Dart & Flutter, while deepening my expertise in Laravel and React. <br>💡 I'm always open to collaboration, feedback, and learning something new every day.</p>
 
 ## 🌐 Socials:
 
