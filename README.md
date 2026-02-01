@@ -35,10 +35,8 @@
 </div>
 
 <!-- Most Used Languages -->
-<div align="left">
- 
- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HafidzThufail22&layout=compact&theme=tokyonight)
- 
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HafidzThufail22&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=repo-yang-tidak-ingin-ditampilkan" alt="Top Languages" />
 </div>
 
 <!-- GitHub Streak Stats -->
