@@ -6,6 +6,8 @@
 <h4 align="center">I'm a student at Digital Technology University of Indonesia, currently exploring the intersection of Front-End Development and UI/UX Design. I am passionate about bridging the gap between logic and aesthetics to build responsive, user-friendly websites.</h4>
 
 ###
+![Profile views](https://komarev.com/ghpvc/?username=HafidzThufail22&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/HafidzThufail22?label=Follow&style=social)](https://github.com/HafidzThufail22)
 
 <p align="left">🌱 I’m currently mastering Dart & Flutter, while deepening my expertise in Laravel and React. <br>💡 I'm always open to collaboration, feedback, and learning something new every day.</p>
 
