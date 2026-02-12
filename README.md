@@ -3,13 +3,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=80&lines=Informatics+Student;UI/UX+Designer;Front-End+Developer+Enthusiast" alt="Typing SVG" />
 </div>
 
-<h4 align="center">I'm a student at Digital Technology University of Indonesia, currently exploring the intersection of Front-End Development and UI/UX Design. I am passionate about bridging the gap between logic and aesthetics to build responsive, user-friendly websites.</h4>
+<h4 align="center">I'm a student at Digital Technology University of Indonesia,with a deep passion for the intersection of Front-End Development and UI/UX Design. My goal is to bridge the gap between complex logic and clean aesthetics to build responsive, user-friendly web applications.
+
+Currently, I am heavily focused on deepening my expertise in Laravel and React, building robust full-stack applications that don't just work well, but also feel great to use. I believe that good code and good design are inseparable.
+
+I am always open to collaboration, constructive feedback, and the opportunity to learn something new every day to sharpen my skills in the ever-evolving tech landscape..</h4>
 
 ###
 ![Profile views](https://komarev.com/ghpvc/?username=HafidzThufail22&color=blue)
 [![GitHub followers](https://img.shields.io/github/followers/HafidzThufail22?label=Follow&style=social)](https://github.com/HafidzThufail22)
 
-<p align="left">🌱 I’m currently mastering Dart & Flutter, while deepening my expertise in Laravel and React. <br>💡 I'm always open to collaboration, feedback, and learning something new every day.</p>
 
 ## 🌐 Socials:
 
@@ -26,11 +29,11 @@
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=catursetyono&theme=tokyonight)](https://git.io/streak-stats) -->
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HafidzThufail22&theme=tokyonight&hide_border=false&background=1A1B27" alt="GitHub Streak"/>
 
-
 </div>
 <div align="left">
  
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HafidzThufail22&show_icons=true&theme=tokyonight)
+
 
 </div>
 
