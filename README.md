@@ -11,11 +11,6 @@
 Currently, I am focusing on honing my skills as a Full-Stack Developer with the goal of building well-rounded web applications—combining intuitive interfaces from a designer’s perspective with robust and efficient backend system architecture.
 </h4>
 
-###
-
-![Profile views](https://komarev.com/ghpvc/?username=HafidzThufail22&color=blue)
-[![GitHub followers](https://img.shields.io/github/followers/HafidzThufail22?label=Follow&style=social)](https://github.com/HafidzThufail22)
-
 #### Connect with me
 
 <a href="https://linkedin.com/in/hafidzthufail" target="_blank">
@@ -34,7 +29,9 @@ Currently, I am focusing on honing my skills as a Full-Stack Developer with the 
 
 <div align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HafidzThufail22&theme=tokyonight&hide_border=false&background=1A1B27" alt="GitHub Streak"/>
+<div/>
 
+<div align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HafidzThufail22&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&exclude_repo=repo-yang-tidak-ingin-ditampilkan" alt="Top Languages" />
 </div>
 
