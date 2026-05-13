@@ -37,6 +37,7 @@ Open to collaboration on exciting projects, discussions about web design and dev
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HafidzThufail22&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&exclude_repo=repo-yang-tidak-ingin-ditampilkan" alt="Top Languages" />
 </div>
 <br>
+<br>
 
 <p align="center">
 "Clean code always looks like it was written by someone who cares." — Robert C. Martin
