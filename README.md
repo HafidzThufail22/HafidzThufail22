@@ -30,6 +30,8 @@ I'm open to collaboration on exciting projects, discussions about web design and
 </a>
 
 <br>
+<br>
+<br>
 
 <div align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HafidzThufail22&theme=tokyonight&hide_border=false&background=1A1B27" alt="GitHub Streak"/>
