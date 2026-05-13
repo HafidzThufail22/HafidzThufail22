@@ -36,10 +36,6 @@ Open to collaboration on exciting projects, discussions about web design and dev
 <div align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HafidzThufail22&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&exclude_repo=repo-yang-tidak-ingin-ditampilkan" alt="Top Languages" />
 </div>
-<br>
 
-<p align="center" style="font-family: 'Amiri', 'Scheherazade New', 'Noto Naskh Arabic', serif; font-size: 1.35rem; letter-spacing: 0.04em; line-height: 2.1; margin: 18px 0; direction: rtl;">
-" ليس الفتى من يقول كان أبي، ولكن الفتى من يقول ها أنا ذا "
-</p>
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=120&section=footer&text=ليس الفتى من يقول كان أبي، ولكن الفتى من يقول ها أنا ذا&fontSize=28&fontColor=FFFFFF" />
