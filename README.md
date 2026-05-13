@@ -36,6 +36,11 @@ Open to collaboration on exciting projects, discussions about web design and dev
 <div align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HafidzThufail22&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&exclude_repo=repo-yang-tidak-ingin-ditampilkan" alt="Top Languages" />
 </div>
+<br>
+
+<p align="center">
+"Clean code always looks like it was written by someone who cares." — Robert C. Martin
+<p/>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=120&section=footer&text=ليس الفتى من يقول كان أبي، ولكن الفتى من يقول ها أنا ذا&fontSize=28&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer" />
