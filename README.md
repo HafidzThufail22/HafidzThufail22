@@ -38,8 +38,8 @@ Open to collaboration on exciting projects, discussions about web design and dev
 </div>
 <br>
 
-<p align="center">
+<p align="center" style="font-family: 'Amiri', 'Scheherazade New', 'Noto Naskh Arabic', serif; font-size: 1.35rem; letter-spacing: 0.04em; line-height: 2.1; margin: 18px 0; direction: rtl;">
 " ليس الفتى من يقول كان أبي، ولكن الفتى من يقول ها أنا ذا "
-<p/>
+</p>
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer" />
