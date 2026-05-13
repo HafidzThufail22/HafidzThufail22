@@ -1,13 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Hafidz%20Thufail%20Nur%20Ikhsan%20&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=80&lines=Informatics+Student;UI/UX+Designer;Front-End+Developer+Enthusiast" alt="Typing SVG" />
-</div>
+<h2> Hi There, I'm Hafidz Thufail Nur Ikhsan <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
-<h4 align="center">I'm a student at Digital Technology University of Indonesia,with a deep passion for the intersection of Front-End Development and UI/UX Design. My goal is to bridge the gap between complex logic and clean aesthetics to build responsive, user-friendly web applications.
+// linkedin
+<a href="https://linkedin.com/in/hafidzthufail" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
-Currently, I am heavily focused on deepening my expertise in Laravel and React, building robust full-stack applications that don't just work well, but also feel great to use. I believe that good code and good design are inseparable.
+<a href="https://instagram.com/hafidzthufail_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<br />
+<br />
+<div/>
 
-I am always open to collaboration, constructive feedback, and the opportunity to learn something new every day to sharpen my skills in the ever-evolving tech landscape..</h4>
+<h4 align="center">I'm a Informatics Student at Digital Technology University of Indonesia,with a passion for UI/UX design and Web Development.<br>
+Currently, I am focusing on honing my skills as a Full-Stack Developer with the goal of building well-rounded web applications—combining intuitive interfaces from a designer’s perspective with robust and efficient backend system architecture.
+</h4>
 
 ###
 ![Profile views](https://komarev.com/ghpvc/?username=HafidzThufail22&color=blue)
