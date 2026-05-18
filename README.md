@@ -6,12 +6,12 @@
 
 <div/>
 
-<h4 align="center">I'm a Informatics Student at Digital Technology University of Indonesia,with a passion for UI/UX design and Web Development.<br>
+<p align="center">I'm a Informatics Student at Digital Technology University of Indonesia,with a passion for UI/UX design and Web Development.<br>
 Currently, I am focusing on honing my skills as a Full-Stack Developer with the goal of building well-rounded web applications—combining intuitive interfaces from a designer’s perspective with robust and efficient backend system architecture.
-</h4>
-<h4 align="center">
+<p/>
+<p align="center">
 I'm open to collaboration on exciting projects, discussions about web design and development, and opportunities to learn new things together.
-<h4/>
+<p/>
 
 #### 📍Based in Yogyakarta
 
